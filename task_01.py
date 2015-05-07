@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """Fibonacci Sequence Generator"""
 
+
 def xfibo(count):
     """Fibonacci Sequence Generator
     Args:
